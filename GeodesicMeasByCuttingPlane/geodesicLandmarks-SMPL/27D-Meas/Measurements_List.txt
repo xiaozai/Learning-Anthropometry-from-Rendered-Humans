@@ -1,0 +1,30 @@
+# Measurements List
+
+1. head circ
+2. neck circ
+3. chest circ
+4. underBust circ
+5. maxWaist circ
+6. trouserWaist circ 
+7. pelvis/hip circ
+8. left/right thigh circ
+9. left/right knee  circ
+10 left/right calf circ
+11 left/right ankle circ
+12 left/right becip circ
+13 left/right elbow circ
+14 left/right forearm circ
+15 left/right wrist circ
+
+16 head length
+17 neck length
+18 should breadth 
+19 upperBody length
+20 pelvis length
+21 left/right upper leg length
+22 left/right lower leg length
+23 left/right upper arm length
+24 left/right lower arm length
+25 left/right hand length
+26 left/right foot length
+27 left/right crotchToFloor length
